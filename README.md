@@ -9,7 +9,7 @@
 ---
 > Me, t41n41, a fool in internet, a student at UIT, a hardcoder finding his passion, love to learn and make diffirent.
 ---
-> Interest with Security, Magic Function, Software Development.
+> Interest in Security, Magic Function, Software Development.
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
