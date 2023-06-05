@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m currently studying at UIT<br>
+👯 I’m currently studying Faculty of Computer Networks and Communications at UIT<br>
 🌱 An invidual seeking for wide-range knowledge <br>
 ✍️ Have a strong passion to apply new tech into real life <br>
 
