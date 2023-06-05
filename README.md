@@ -5,7 +5,7 @@
 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tai.9029) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nganhtai0411) 
 
 ### ⚡ Notable projects
- - [Lottery Game](https://lottery.dacn.site) (Solidity, ReactJS, ExpressJS, TailwindCSS) A lottery game project that i'm currenly working on
+ - [Lottery Game](https://github.com/nguyendamnhatanh/NT114-Lottery_Website_Using_Blockchain) (Solidity, ReactJS, ExpressJS, TailwindCSS) A lottery game project that i'm currenly working on
  - [F4Koin-Shop](http://github.com/phongkhuu115/F4-Koin_Web) (ReactJS, MySQL, Laravel,) A E-Commerce with basic function like login/logou, cart, filter, seacrh...
  - [Cinema Manager](http://github.com/t41n4/project_CinemaManager) (.NET, SQL Server) A Cinema App which help user easier in order to buy cinema ticket.
 
